@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width = "400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesumityadav21&label=Profile%20views&color=0e75b6&style=flat" alt="thesumityadav21" /> </p>
 
-- 🌱 I’m currently learning **Flutter, DSA and On my designing skills.**
+- 🌱 I’m currently learning ** DSA and  working on designing skills.**
 
 - 👨‍💻 My Design Portfolio [https://drive.google.com/file/d/1hw4AEsGanFisTtsEtjNAAPbfrgInY6G0/view](https://drive.google.com/file/d/1hw4AEsGanFisTtsEtjNAAPbfrgInY6G0/view)
 
