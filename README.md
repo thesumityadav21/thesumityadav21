@@ -8,7 +8,6 @@
 
 - 📝 My Portfolio Website [https://thesumityadav21.github.io/Portfolio/](https://thesumityadav21.github.io/Portfolio/)
 
-- 💬 Ask me about **Multidisciplinary Designer and Learning Data Analytics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
