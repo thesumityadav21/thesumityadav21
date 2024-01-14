@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesumityadav21&label=Profile%20views&color=0e75b6&style=flat" alt="thesumityadav21" /> </p>
 
 - 🌱 I’m currently Exploring
-- **about Data anaytics & working on designing skills.**
+ **about Data anaytics & working on designing skills.**
 
 - 👨‍💻 My Design Portfolio [https://www.behance.net/thesumityadav_)
 
