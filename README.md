@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning ** DSA and  working on designing skills.**
 
-- 👨‍💻 My Design Portfolio [https://drive.google.com/file/d/1hw4AEsGanFisTtsEtjNAAPbfrgInY6G0/view](https://drive.google.com/file/d/1hw4AEsGanFisTtsEtjNAAPbfrgInY6G0/view)
+- 👨‍💻 My Design Portfolio [https://www.behance.net/thesumityadav_)
 
 - 📝 My Portfolio Website [https://thesumityadav21.github.io/Portfolio/](https://thesumityadav21.github.io/Portfolio/)
 
-- 💬 Ask me about **Designing, Frontend Web development**
+- 💬 Ask me about **Multidisciplinary Designer and Learning Data Analytics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
